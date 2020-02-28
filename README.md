@@ -1,6 +1,6 @@
 # Divine-Dominguez-v1.0.0
 
-..*I don't care if u have some code problems!!!
+⋅⋅* I don't care if u have some code problems!!!
 
 NodeJS Modules:
 ```javascript
