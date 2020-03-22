@@ -50,3 +50,12 @@
 **Description:** ‼️ Under Development ‼️
 
 ​
+
+| Permissions that the bot needs  | 
+| ------------------------------  | 
+| Manage Roles                    | 
+| Kick Members                    |
+| Ban Members                     |
+| Manage Messages |
+| Embed Links |
+| Send Messages |
