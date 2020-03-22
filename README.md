@@ -51,11 +51,11 @@
 
 ​
 
-| Permissions that the bot needs  | 
-| ------------------------------  | 
-| Manage Roles                    | 
-| Kick Members                    |
-| Ban Members                     |
-| Manage Messages |
-| Embed Links |
-| Send Messages |
+| Permissions that the bot needs  | Useful and Helpful Commands | 
+| ------------------------------  | --------------------------- |
+| Manage Roles                    | :?help - Shows all the commands  |
+| Kick Members                    | :?config - Shows the server config |
+| Ban Members                     | :?support - Gives a link where you can contact the developers |
+| Manage Messages | :?bug - Report a bug (proof required (imgur can be used for images))
+| Embed Links | :?suggest - Suggest a suggestion for the bot
+| Send Messages | 
