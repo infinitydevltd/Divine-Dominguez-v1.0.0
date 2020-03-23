@@ -23,13 +23,13 @@
 &gt; 🛠️ __**Config**__
 
 ​
-**Description:** About 5 - 7 Config commands, but only 1 works now because the bot is still under development
+**Description:** About 5 - 7 Config commands, welcomelog channel, level log, deleted message logs, they auto enable when u set the channel!
 
 ​
 &gt; 🎚️ __**Level**__
 
 ​
-**Description:** 2 Commands, Levels are XP Gainable with 10 seconds cooldown and ♾️ levels! 
+**Description:** 2 Commands: rank (shows your current xp, level and xp needed for next level), leaderboard(shows the guild's most ranked members!), levels are XP Gainable with 10 seconds cooldown and ♾️ levels! 
 
 ​
 &gt; 🏷️: __**Tags**__
