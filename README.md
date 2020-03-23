@@ -36,6 +36,7 @@
 ​
 > Tags are removed due to bugs 
 ​
+
 | Permissions that the bot needs  | Useful and Helpful Commands | 
 | ------------------------------  | --------------------------- |
 | Manage Roles                    | :?help - Shows all the commands  |
