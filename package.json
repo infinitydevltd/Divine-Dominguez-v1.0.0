@@ -14,7 +14,7 @@
     "dot-prop": "^5.2.0",
     "pidusage": "^2.0.18",
     "sparsejs": "^1.0.2-3",
-    "typeorm": "^0.2.22",
+    "typeorm": "^0.2.25",
     "typescript": "^3.7.5"
   }
 }
